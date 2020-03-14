@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="c_tut" targetName="array-ptr" />
+      <config projectName="c_tut" targetName="functions" />
+      <config projectName="c_tut" targetName="pointer" />
+      <config projectName="c_tut" targetName="ptr-func" />
+      <config projectName="c_tut" targetName="argc-argv" />
+      <config projectName="c_tut" targetName="ptr-arg" />
+      <config projectName="c_tut" targetName="array-arg" />
+      <config projectName="c_tut" targetName="array" />
+      <config projectName="c_tut" targetName="words" />
+      <config projectName="c_tut" targetName="ptr-arg-3" />
+      <config projectName="c_tut" targetName="calc" />
+      <config projectName="c_tut" targetName="hello" />
+      <config projectName="c_tut" targetName="ref-arg" />
+      <config projectName="c_tut" targetName="ptr-arg-2" />
+      <config projectName="c_tut" targetName="mem-alloc" />
+      <config projectName="c_tut" targetName="if-then-else" />
+      <config projectName="c_tut" targetName="file" />
+      <config projectName="c_tut" targetName="person" />
+      <config projectName="c_tut" targetName="strings" />
+      <config projectName="c_tut" targetName="ptr-problems" />
+      <config projectName="c_tut" targetName="type-conv" />
+      <config projectName="c_tut" targetName="types" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c69ec526-3328-4332-9234-09aad0ba4df7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1X5JZfJif819iHWQxycADJdEaP9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.updates" />
+  </component>
+  <component name="RunManager" selected="CMake Application.ptr-arg-2">
+    <configuration name="argc-argv" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="c_tut" TARGET_NAME="argc-argv" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="c_tut" RUN_TARGET_NAME="argc-argv">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="array-arg" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="c_tut" TARGET_NAME="array-arg" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="c_tut" RUN_TARGET_NAME="array-arg">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="array-ptr" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="c_tut" TARGET_NAME="array-ptr" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="c_tut" RUN_TARGET_NAME="array-ptr">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="array" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="c_tut" TARGET_NAME="array" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="c_tut" RUN_TARGET_NAME="array">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="calc" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="c_tut" TARGET_NAME="calc" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="c_tut" RUN_TARGET_NAME="calc">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="file" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="c_tut" TARGET_NAME="file" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="c_tut" RUN_TARGET_NAME="file">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="functions" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="c_tut" TARGET_NAME="functions" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="c_tut" RUN_TARGET_NAME="functions">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hello" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="c_tut" TARGET_NAME="hello" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="c_tut" RUN_TARGET_NAME="hello">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="if-then-else" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="c_tut" TARGET_NAME="if-then-else" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="c_tut" RUN_TARGET_NAME="if-then-else">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mem-alloc" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="c_tut" TARGET_NAME="mem-alloc" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="c_tut" RUN_TARGET_NAME="mem-alloc">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="person" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="c_tut" TARGET_NAME="person" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="c_tut" RUN_TARGET_NAME="person">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pointer" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="c_tut" TARGET_NAME="pointer" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="c_tut" RUN_TARGET_NAME="pointer">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ptr-arg-2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="c_tut" TARGET_NAME="ptr-arg-2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="c_tut" RUN_TARGET_NAME="ptr-arg-2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ptr-arg-3" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="c_tut" TARGET_NAME="ptr-arg-3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="c_tut" RUN_TARGET_NAME="ptr-arg-3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ptr-arg" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="c_tut" TARGET_NAME="ptr-arg" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="c_tut" RUN_TARGET_NAME="ptr-arg">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ptr-func" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="c_tut" TARGET_NAME="ptr-func" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="c_tut" RUN_TARGET_NAME="ptr-func">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ptr-problems" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="c_tut" TARGET_NAME="ptr-problems" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="c_tut" RUN_TARGET_NAME="ptr-problems">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ref-arg" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="c_tut" TARGET_NAME="ref-arg" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="c_tut" RUN_TARGET_NAME="ref-arg">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="strings" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="c_tut" TARGET_NAME="strings" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="c_tut" RUN_TARGET_NAME="strings">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="type-conv" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="c_tut" TARGET_NAME="type-conv" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="c_tut" RUN_TARGET_NAME="type-conv">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="types" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="c_tut" TARGET_NAME="types" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="c_tut" RUN_TARGET_NAME="types">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="words" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="c_tut" TARGET_NAME="words" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="c_tut" RUN_TARGET_NAME="words">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.argc-argv" />
+      <item itemvalue="CMake Application.array-arg" />
+      <item itemvalue="CMake Application.array-ptr" />
+      <item itemvalue="CMake Application.array" />
+      <item itemvalue="CMake Application.calc" />
+      <item itemvalue="CMake Application.file" />
+      <item itemvalue="CMake Application.functions" />
+      <item itemvalue="CMake Application.hello" />
+      <item itemvalue="CMake Application.if-then-else" />
+      <item itemvalue="CMake Application.mem-alloc" />
+      <item itemvalue="CMake Application.person" />
+      <item itemvalue="CMake Application.pointer" />
+      <item itemvalue="CMake Application.ptr-arg-2" />
+      <item itemvalue="CMake Application.ptr-arg-3" />
+      <item itemvalue="CMake Application.ptr-arg" />
+      <item itemvalue="CMake Application.ptr-func" />
+      <item itemvalue="CMake Application.ptr-problems" />
+      <item itemvalue="CMake Application.ref-arg" />
+      <item itemvalue="CMake Application.strings" />
+      <item itemvalue="CMake Application.type-conv" />
+      <item itemvalue="CMake Application.types" />
+      <item itemvalue="CMake Application.words" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c69ec526-3328-4332-9234-09aad0ba4df7" name="Default Changelist" comment="" />
+      <created>1580330078998</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580330078998</updated>
+      <workItem from="1580330081732" duration="7807000" />
+      <workItem from="1580339790914" duration="3798000" />
+      <workItem from="1580512563260" duration="5828000" />
+      <workItem from="1580672335140" duration="5228000" />
+      <workItem from="1580702974307" duration="4364000" />
+      <workItem from="1580755424262" duration="3250000" />
+      <workItem from="1580933177735" duration="9809000" />
+      <workItem from="1581109624071" duration="3677000" />
+      <workItem from="1581294270665" duration="4361000" />
+      <workItem from="1581369675783" duration="1915000" />
+      <workItem from="1581458897117" duration="2800000" />
+      <workItem from="1581534450694" duration="2066000" />
+      <workItem from="1581537932750" duration="9959000" />
+      <workItem from="1581576593674" duration="1482000" />
+      <workItem from="1581578238735" duration="923000" />
+      <workItem from="1581632391781" duration="249000" />
+      <workItem from="1581639977200" duration="2516000" />
+      <workItem from="1581698431292" duration="53000" />
+      <workItem from="1581733750798" duration="606000" />
+      <workItem from="1581960862758" duration="883000" />
+      <workItem from="1581978471881" duration="621000" />
+      <workItem from="1581981124740" duration="1077000" />
+      <workItem from="1581984722686" duration="2893000" />
+      <workItem from="1581988184712" duration="640000" />
+      <workItem from="1582050731476" duration="1068000" />
+      <workItem from="1582063242965" duration="622000" />
+      <workItem from="1582070120902" duration="336000" />
+      <workItem from="1582490559490" duration="868000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="435" y="201" width="552" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581369781155">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="435" y="201" width="552" height="390" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1299.741@67.27.1299.741" timestamp="1581369781155" />
+    <state width="490" height="438" key="DebuggerActiveHint" timestamp="1581111248265">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="490" height="438" key="DebuggerActiveHint/67.27.1299.741@67.27.1299.741" timestamp="1581111248265" />
+    <state width="1253" height="175" key="GridCell.Tab.0.bottom" timestamp="1581987994855">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="175" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1581987994855" />
+    <state width="1253" height="175" key="GridCell.Tab.0.center" timestamp="1581987994854">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="175" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1581987994854" />
+    <state width="1253" height="175" key="GridCell.Tab.0.left" timestamp="1581987994854">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="175" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1581987994854" />
+    <state width="1253" height="175" key="GridCell.Tab.0.right" timestamp="1581987994855">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="175" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1581987994855" />
+    <state width="1253" height="219" key="GridCell.Tab.1.bottom" timestamp="1581547900457">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="219" key="GridCell.Tab.1.bottom/67.27.1299.741@67.27.1299.741" timestamp="1581547900457" />
+    <state width="1253" height="219" key="GridCell.Tab.1.center" timestamp="1581547900456">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="219" key="GridCell.Tab.1.center/67.27.1299.741@67.27.1299.741" timestamp="1581547900456" />
+    <state width="1253" height="219" key="GridCell.Tab.1.left" timestamp="1581547900455">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="219" key="GridCell.Tab.1.left/67.27.1299.741@67.27.1299.741" timestamp="1581547900455" />
+    <state width="1253" height="219" key="GridCell.Tab.1.right" timestamp="1581547900456">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="219" key="GridCell.Tab.1.right/67.27.1299.741@67.27.1299.741" timestamp="1581547900456" />
+    <state x="67" y="404" width="1041" height="164" key="GridCell.Tab.2.bottom" timestamp="1580758064726">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="67" y="404" width="1041" height="164" key="GridCell.Tab.2.bottom/67.27.1299.741@67.27.1299.741" timestamp="1580758064726" />
+    <state x="67" y="404" width="1041" height="164" key="GridCell.Tab.2.center" timestamp="1580758064724">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="67" y="404" width="1041" height="164" key="GridCell.Tab.2.center/67.27.1299.741@67.27.1299.741" timestamp="1580758064724" />
+    <state x="67" y="404" width="1041" height="164" key="GridCell.Tab.2.left" timestamp="1580758064723">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="67" y="404" width="1041" height="164" key="GridCell.Tab.2.left/67.27.1299.741@67.27.1299.741" timestamp="1580758064723" />
+    <state x="67" y="404" width="1041" height="164" key="GridCell.Tab.2.right" timestamp="1580758064725">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="67" y="404" width="1041" height="164" key="GridCell.Tab.2.right/67.27.1299.741@67.27.1299.741" timestamp="1580758064725" />
+    <state x="67" y="404" width="1041" height="164" key="GridCell.Tab.3.bottom" timestamp="1580758047342">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="67" y="404" width="1041" height="164" key="GridCell.Tab.3.bottom/67.27.1299.741@67.27.1299.741" timestamp="1580758047342" />
+    <state x="67" y="404" width="1041" height="164" key="GridCell.Tab.3.center" timestamp="1580758047340">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="67" y="404" width="1041" height="164" key="GridCell.Tab.3.center/67.27.1299.741@67.27.1299.741" timestamp="1580758047340" />
+    <state x="67" y="404" width="1041" height="164" key="GridCell.Tab.3.left" timestamp="1580758047339">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="67" y="404" width="1041" height="164" key="GridCell.Tab.3.left/67.27.1299.741@67.27.1299.741" timestamp="1580758047339" />
+    <state x="67" y="404" width="1041" height="164" key="GridCell.Tab.3.right" timestamp="1580758047341">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="67" y="404" width="1041" height="164" key="GridCell.Tab.3.right/67.27.1299.741@67.27.1299.741" timestamp="1580758047341" />
+    <state x="67" y="404" width="1041" height="194" key="dock-window-1" timestamp="1580758090547">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="67" y="404" width="1041" height="194" key="dock-window-1/67.27.1299.741@67.27.1299.741" timestamp="1580758090547" />
+    <state x="208" y="548" width="1041" height="194" key="dock-window-2" timestamp="1580758129132">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="208" y="548" width="1041" height="194" key="dock-window-2/67.27.1299.741@67.27.1299.741" timestamp="1580758129132" />
+    <state x="380" y="175" key="run.anything.popup" timestamp="1581298091877">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="380" y="175" key="run.anything.popup/67.27.1299.741@67.27.1299.741" timestamp="1581298091877" />
+    <state x="379" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1580939474669">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="379" y="89" width="672" height="678" key="search.everywhere.popup/67.27.1299.741@67.27.1299.741" timestamp="1580939474669" />
+  </component>
+</project>

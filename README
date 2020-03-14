@@ -1,0 +1,499 @@
+#Task 1
+- Description: The hello.c file prints hello world and uses end case characters.
+- Sample Run
+```
+Hello World. 
+ 	 and you ! 
+ 
+Process finished with exit code 0
+```
+
+- Description of Known Issues
+No known Issues.
+
+#Task 2
+- Description: In this program we take input for variables nStudents and nFaculty. Output nStudent and then output the ration of nStudents to nFaculty limited two 1 decimal place.
+
+- Sample Runs
+
+Test 1
+```
+How many students does CSUCI have ?:2000
+CSUCI has 2000.000000 students.
+How many faculty members does CSUCI have?: 15
+The ratio of Students to Faculty at CSUCI is: 133.3
+Process finished with exit code 0
+```
+
+Test 2
+``` 
+How many students does CSUCI have ?:19
+CSUCI has 19.000000 students.
+How many faculty members does CSUCI have?: 20
+The ratio of Students to Faculty at CSUCI is: 0.9
+Process finished with exit code 0
+```
+
+Test 3
+```
+How many students does CSUCI have ?:1851
+CSUCI has 1851.000000 students.
+How many faculty members does CSUCI have?: 11
+The ratio of Students to Faculty at CSUCI is: 168.3
+Process finished with exit code 0
+```
+
+- Description of Known Issues
+No known issues.
+#Task 3
+- Description: This program prompts the user to indicate the fullness of their gas tank. Represented by the users input of f, h , or e. If the user inputs something other than the given, the default warns the user of the wrong input.
+
+- Sample Runs
+
+Test 1
+```
+(Please enter f, h, or e for fuel level)
+ How full is your gas tank?: f
+Your tank is full you stud! 
+ Drive fast!
+Process finished with exit code 0
+```
+
+Test2
+```
+(Please enter f, h, or e for fuel level)
+ How full is your gas tank?: h
+Your tank is half full.
+ Keep it in mind, buddy.
+Process finished with exit code 0
+```
+
+Test3
+```
+Please enter f, h, or e for fuel level)
+ How full is your gas tank?: e
+Dude, your tank is empty.
+ Guess you are a spud, not a stud.
+Process finished with exit code 0
+```
+
+Test4
+```
+(Please enter f, h, or e for fuel level)
+ How full is your gas tank?: g
+Wrong answer, hope your car is electric then.
+Process finished with exit code 0
+```
+
+Test5
+```
+(Please enter f, h, or e for fuel level)
+ How full is your gas tank?: 15
+Wrong answer, hope your car is electric then.
+Process finished with exit code 0
+```
+
+Test6
+```
+(Please enter f, h, or e for fuel level)
+ How full is your gas tank?: F
+Your tank is full you stud! 
+ Drive fast!
+Process finished with exit code 0
+```
+
+- Description of Known Issues
+No known issues.
+
+#Task 4
+- Description: The array.c program prompts user to input a user specified amount of doubles which will be input into an Array. Those values will be output as a list and again as an average of the values.
+
+- Sample Runs
+
+Test1
+```
+(Amount should be from 1 to 128)
+Please enter a number of Doubles you would like: 5
+Please enter 5 doubles separated by spaces.
+10.0
+15.5 14.5
+5.5 4.5
+10.0 15.5 14.5 5.5 4.5 
+Average = 10.0
+
+Process finished with exit code 0
+```
+
+Test2
+```
+(Amount should be from 1 to 128)
+Please enter a number of Doubles you would like: -55
+
+Your amount was under the minimum amount necessary.
+ Setting amount to 1.
+
+Please enter 1 doubles separated by spaces.
+10055
+10055.0 
+Average = 10055.0
+
+Process finished with exit code 0
+```
+
+Test3
+```
+(Amount should be from 1 to 128)
+Please enter a number of Doubles you would like: 500
+
+Your amount was over the limit. Setting amount to 128.
+
+Please enter 128 doubles separated by spaces.
+213
+212 215 15  
+515163 
+ 5 5 
+ 1 5 54 
+ 5 4 1
+ 5 16 8  16 
+ 54  3 5 16 1
+ 5 464 871 3 468 
+ 5 49 3 1 
+3 468 3 1 684 
+35 48 4 1 684  
+3
+48  546 494
+3  
+84 41 35 884654
+84 413 54
+686
+ 84 6 468 435 168 4
+ 8 694 6 4894  16 84 48 46 
+ 684 89 435 135 489 43 21 684 3 
+ 864 94 351 68 413 51 68 489  31 
+ 84 6 413 489 4 61  894 534 13 84 1
+ 68 4 43 54 8941351 6 489 413 168 468 1
+6 48 4 61 35489 43 8 46 498 1 35 84 65 4
+ 64 8 41 6 46 2 4968 413 4 841 68 94 616 
+213.0 212.0 215.0 15.0 515163.0 5.0 5.0 1.0 5.0 54.0 5.0 4.0 1.0 5.0 16.0 8.0 16.0 54.0 3.0 5.0 16.0 1.0 5.0 464.0 871.0 3.0 468.0 5.0 49.0 3.0 1.0 3.0 468.0 3.0 1.0 684.0 35.0 48.0 4.0 1.0 684.0 3.0 48.0 546.0 494.0 3.0 84.0 41.0 35.0 884654.0 84.0 413.0 54.0 686.0 84.0 6.0 468.0 435.0 168.0 4.0 8.0 694.0 6.0 4894.0 16.0 84.0 48.0 46.0 684.0 89.0 435.0 135.0 489.0 43.0 21.0 684.0 3.0 864.0 94.0 351.0 68.0 413.0 51.0 68.0 489.0 31.0 84.0 6.0 413.0 489.0 4.0 61.0 894.0 534.0 13.0 84.0 1.0 68.0 4.0 43.0 54.0 8941351.0 6.0 489.0 413.0 168.0 468.0 1.0 6.0 48.0 4.0 61.0 35489.0 43.0 8.0 46.0 498.0 1.0 35.0 84.0 65.0 4.0 64.0 8.0 41.0 6.0 46.0 2.0 
+Average = 81259.0
+
+Process finished with exit code 0
+```
+
+Test4
+```
+(Amount should be from 1 to 128)
+Please enter a number of Doubles you would like: 5
+Please enter 5 doubles separated by spaces.
+-12.2
+-888
+-95
+51.5
+12.8
+-12.2 -888.0 -95.0 51.5 12.8 
+Average = -186.2
+
+Process finished with exit code 0
+```
+
+- Description Of Know Issues
+No known Issues.
+
+#Task 5
+- Description: The purpose of words.c program is to read words input by the user appended with the word END. When the program encounters the word "END", the reading will terminate, prompt the user to how many words were entered, and output those words one line at a time.
+
+- Sample Runs
+
+Test1
+```
+Please enter words (Stop with END).
+ 
+Name is Travis
+This will be three lines
+and contain twelve words
+END
+The following 12 word(s) have been read:
+ Name
+is
+Travis
+This
+will
+be
+three
+lines
+and
+contain
+twelve
+words
+
+Process finished with exit code 0
+```
+
+Test2
+```
+Please enter words (Stop with END).
+ 
+THiS iS CaSe SenSitive
+END
+The following 4 word(s) have been read:
+ THiS
+iS
+CaSe
+SenSitive
+
+Process finished with exit code 0
+```
+
+Test3
+```
+Please enter words (Stop with END).
+ 
+This is a list of words
+But numbers work too
+999 888 777
+END
+The following 13 word(s) have been read:
+ This
+is
+a
+list
+of
+words
+But
+numbers
+work
+too
+999
+888
+777
+
+Process finished with exit code 0
+```
+
+- Description of Known Issues
+No known issues.
+
+#Task 6
+- Description: The file.c program writes data from a given file to a new file created with the name given by the user.
+
+Test1
+```
+Data.txt Contains
+There are no mistakes,
+only happy accidents :)
+
+The user input in file happyBoy
+There are no mistakes,
+only happy accidents :)
+```
+
+- Description of Known Issues
+No known issues.
+
+#Task 7
+- Description: ptr-arg-2.c is a string swapping program using pointers with malloced memory and utilizing the free method to free the memory at the end of the program. Used prototyped declaration of swapStrings method and definition below the main program.
+
+Test1
+```
+Char1 = leader, Char2 = trailer
+Char1 = trailer, Char2 = leader
+
+Process finished with exit code 0
+```
+
+- Description of Known Issues: 
+No known issues.
+
+#Task 8
+- Description: In an infinite loop, the user is prompt for an expression. The expression is then fed into the calc function which refers to a seperate function based on the operator. The program will continue until the user force ends the program.
+
+Test 1
+```
+Calc > 1 + 30
+31
+Calc > 33 - 22
+11
+Calc > 5 * 5
+25
+Calc > 50 / 9
+5
+Calc > 
+Process finished with exit code 15
+```
+
+Test2
+```
+Calc > 12+15
+27
+Calc > 13-11
+2
+Calc > 2*15
+30
+Calc > 15/3
+5
+Calc > 
+Process finished with exit code 15
+```
+
+Test3
+```
+Calc > 15-        7
+8
+Calc > 12        + 
+3
+15
+Calc > 21 / 
+3
+7
+Calc > 10  *  3
+30
+Calc > 
+Process finished with exit code 15
+```
+
+- Description of Known Issues:
+No known Issues.
+
+#Task 9
+- Description: Struct.c program prompts user for number of employees. The program then asks for the data of the employees. Storing that information, then repeats it back to the user.
+
+Test 1
+```
+How many employees, boss?
+2
+
+Enter info for the next employee.
+Name: Travis
+Age: 25
+Height: 6.0
+Birthday ( MM / DD / YYYY ) : 3/ 29   /     1994
+
+Enter info for the next employee.
+Name: Belle
+Age: 25
+Height: 5.0
+Birthday ( MM / DD / YYYY ) : 6/26/1994
+
+Displaying employees...
+
+Travis :
+      Age : 25
+      Height :  6.0
+      Birthday : 3/29/1994
+
+Belle :
+      Age : 25
+      Height :  5.0
+      Birthday : 6/26/1994
+
+Process finished with exit code 0
+```
+
+Test 2
+```
+How many employees, boss?
+ A
+
+Displaying employees...
+
+Process finished with exit code 0
+```
+
+Test 3
+```
+How many employees, boss?
+1
+
+Enter info for the next employee.
+Name: 215
+Age: 588
+Height: 15
+Birthday ( MM / DD / YYYY ) : fasd
+
+Displaying employees...
+
+215 :
+      Age : 588
+      Height : 15.0
+      Birthday : 0/0/0
+
+Process finished with exit code 0
+```
+
+- Description of Known Issues:
+Program does not throw exception or check input for number of employees. If not given number, the program assumes no employees.
+
+#Task 10
+- Description: Procesor.c takes user input by type and stores in a message cache. Acting like a set of mailboxes, when the boxes are full, we empty the mailboxes using our dispatchMessages. This Dispatching processes the individual messages outputting their types and the message that it contains. If the user tells the program END, dispatcher is also called and processes the reamaining messages. At the end, we will also display statistics on the messages that were processed in quantities of how many of each were processed as well as how many times we needed to dispatch the messages.
+
+Test 1
+```
+Enter a message, or type "END" to stop > 1 I love snoopy
+Enter a message, or type "END" to stop > 2 5 9 8 1 11 6 6
+TYPE 1 :  I love snoopy
+TYPE 2 : 5 9 8 1 
+Enter a message, or type "END" to stop > END
+Displaying Statistics... 
+Number of batches processed : 1
+Messages Processed : 
+        Total: 2
+        Type 1 : 1
+        Type 2 : 1
+        Type 3 : 0
+        Type 4 : 0
+
+Process finished with exit code 0
+```
+
+Test 2
+```
+Enter a message, or type "END" to stop > 3 4.5 6.8 2.1 7.6
+Enter a message, or type "END" to stop > 4 Can I get a hug for all this good work
+TYPE 3 :  4.5  6.8  2.1  7.6  0.0 
+TYPE 4 : Can I get 
+Enter a message, or type "END" to stop > 1 I see.. I would like a hug. How about numbers?
+Enter a message, or type "END" to stop > 4 number 1 8
+TYPE 1 :  I see.. I would like a hug. How about numbers?
+TYPE 4 : number 1 8 
+Enter a message, or type "END" to stop > 1 I wonder how many batcher
+Enter a message, or type "END" to stop > 4 should be 3
+TYPE 1 :  I wonder how many batcher
+TYPE 4 : should be 3 
+Enter a message, or type "END" to stop > END
+Displaying Statistics... 
+Number of batches processed : 3
+Messages Processed : 
+        Total: 6
+        Type 1 : 2
+        Type 2 : 0
+        Type 3 : 1
+        Type 4 : 3
+
+Process finished with exit code 0
+```
+
+Test 3
+```
+Enter a message, or type "END" to stop > 4 The known Issue
+Enter a message, or type "END" to stop > 4 Is in 4
+TYPE 4 : The known Issue 
+TYPE 4 : Is in 4 
+Enter a message, or type "END" to stop > 1 my strings can be too long
+Enter a message, or type "END" to stop > 4 Looooooong String bad
+TYPE 1 :  my strings can be too long
+TYPE 4 : LoooooooString String bad 
+Enter a message, or type "END" to stop > END
+Displaying Statistics... 
+Number of batches processed : 2
+Messages Processed : 
+        Total: 4
+        Type 1 : 1
+        Type 2 : 0
+        Type 3 : 0
+        Type 4 : 3
+
+Process finished with exit code 0
+```
+
+- Description of Known Issues: 
+The current issue is processing type 4 messages. The length of the string is not limited to the seven character limit imosed by the 2 dimensional array.
